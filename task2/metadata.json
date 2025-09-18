@@ -1,0 +1,21 @@
+{
+  "name": "My first NFT",
+  "description": "This is my first picture NFT！",
+  "image": "ipfs://bafkreiegruzzlc3dnvz5ktnn4f3fcyjoepr6w4c47nulnalmisk4rib5pm",
+  "external_url": "https://your-website.com/item/1",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "Jarvies Chen"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Version",
+      "value": 1
+    }
+  ]
+}
